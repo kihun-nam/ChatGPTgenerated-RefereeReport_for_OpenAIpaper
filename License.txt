@@ -1,0 +1,125 @@
+# NO-AI UPLOAD AND USE LICENSE
+**Version 1.0 — Custom Restrictive Software Licence**
+
+Copyright (c) [YEAR] [COPYRIGHT HOLDER]
+
+All rights reserved except as expressly permitted by this Licence.
+
+## 1. Definitions
+
+**"Software"** means all source code, compiled code, documentation, configuration files, scripts, assets, and other copyrightable materials distributed under this Licence.
+
+**"Modified Software"** means any modification, adaptation, translation, transformation, derivative work, fork, compilation, or redistribution containing any copyright-protected portion of the Software.
+
+**"Covered Material"** means the Software or Modified Software, in whole or in part, including extracts, snippets, encoded representations, and other forms retaining copyright-protected material from the Software.
+
+**"Artificial Intelligence System" or "AI System"** means any system, service, application, model, or technology employing machine learning, generative artificial intelligence, large language models, neural networks, or comparable learned computational techniques.
+
+**"AI Submission"** means providing, uploading, transmitting, feeding, importing, inserting, or otherwise making Covered Material available to an AI System for processing, analysis, storage, indexing, training, inference, or other AI-related purposes.
+
+## 2. Grant of Permission
+
+Subject to full compliance with this Licence, the copyright holder grants a worldwide, royalty-free, non-exclusive, revocable-upon-breach permission to:
+
+- Download and inspect the Software.
+- Execute and use the Software without AI involvement.
+- Modify, adapt, and improve the Software.
+- Redistribute the Software or Modified Software, provided this Licence and its restrictions remain applicable.
+- Use the Software for personal, educational, research, or commercial purposes that do not violate this Licence.
+
+No permission is granted for any activity prohibited by Section 3.
+
+## 3. Absolute Prohibition on AI Submission and Use
+
+Under no circumstances may any person or organisation, without prior explicit written permission from the copyright holder:
+
+1. Upload, submit, transmit, or provide Covered Material to any AI System.
+2. Use Covered Material as input, prompts, context, attachments, reference files, or instructions for an AI System.
+3. Use Covered Material for training, fine-tuning, evaluating, benchmarking, validating, or improving AI models.
+4. Allow AI-powered coding assistants, agents, code analysers, or automated AI development tools to access or process Covered Material.
+5. Incorporate Covered Material into AI datasets, embedding systems, vector databases, retrieval-augmented generation systems, or AI training corpora.
+6. Use AI Systems to rewrite, refactor, debug, explain, translate, summarise, or otherwise process Covered Material.
+7. Submit Modified Software to an AI System, regardless of the extent or nature of its modifications.
+8. Attempt to circumvent these restrictions through encoding, obfuscation, compression, encryption, transformation, subdivision, or conversion into another format.
+9. Authorise, instruct, or knowingly facilitate another person, organisation, or automated service to perform any prohibited activity.
+
+**These prohibitions apply regardless of whether the AI System is public, private, commercial, non-commercial, locally hosted, remotely hosted, or operated for research purposes.**
+
+No exception is granted for academic use, private experimentation, educational projects, or non-commercial AI activity.
+
+## 4. Original and Modified Material
+
+The restrictions in Section 3 apply equally to:
+
+- Unmodified copies of the Software.
+- Forks and modified versions.
+- Partially rewritten or refactored versions.
+- Translated or converted implementations that constitute derivative works.
+- Source files and compiled binaries.
+- Portions, fragments, and snippets containing copyright-protected material.
+- Software incorporated into larger projects.
+- Any other derivative work containing copyright-protected portions of the original Software.
+
+Changing filenames, programming languages, formatting, project structure, or implementation details does not remove these restrictions where the resulting material remains subject to the original copyright.
+
+## 5. Redistribution Requirements
+
+Any person redistributing the Software or Modified Software must:
+
+1. Include a complete copy of this Licence.
+2. Preserve all applicable copyright notices.
+3. Clearly indicate any modifications made.
+4. Ensure recipients are informed of the AI-related restrictions.
+5. Not grant permissions inconsistent with this Licence.
+
+The AI restrictions must remain applicable to all Covered Material included in redistributed works.
+
+Recipients receive permissions directly under this Licence, subject to its terms.
+
+## 6. No Implied AI Permission
+
+Permission to access, download, view, fork, modify, distribute, or otherwise use the Software does not imply permission to submit or expose it to an AI System.
+
+Public availability of the Software does not constitute consent to AI processing, training, extraction, or ingestion.
+
+Ordinary publication or repository hosting is not, by itself, a prohibited AI Submission merely because an independent third party accesses the published material without the publisher's direction or authorisation.
+
+## 7. Termination
+
+Any violation of Section 3 immediately and automatically terminates all permissions granted under this Licence to the violating party.
+
+Following termination, the violating party must cease all activities requiring permission under this Licence and discontinue any further prohibited processing or distribution.
+
+Restoration of terminated permissions requires explicit written authorisation from the copyright holder.
+
+Termination does not affect permissions previously granted to compliant third-party recipients.
+
+## 8. Reservation of Rights
+
+All rights not expressly granted are reserved by the copyright holder.
+
+Nothing in this Licence transfers ownership of the Software or grants any patent, trademark, or other intellectual property rights except the copyright permissions expressly stated.
+
+These restrictions apply to the extent permitted by applicable law and do not override rights or exceptions that cannot lawfully be restricted.
+
+## 9. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+## 10. Severability
+
+If any provision of this Licence is found unenforceable, the remaining provisions shall remain in effect to the maximum extent permitted by applicable law.
+
+## 11. Acceptance
+
+By exercising any permission granted under this Licence, a person or organisation accepts the conditions and restrictions applicable to that permission.
+
+Persons who do not agree to these terms receive no permission under this Licence beyond rights independently granted by applicable law.
+
+---
+
+**END OF LICENCE**
+
+**NO AI UPLOAD. NO AI PROCESSING. NO AI TRAINING. APPLIES TO ORIGINAL AND MODIFIED SOFTWARE.**
